@@ -5,4 +5,4 @@
 
 리드미 : 작성한 소스에 대한 간단한 소개글을 작성하는 용도
 
-![seagull](images/스크린샷 2022-01-19 10.09.00.png)
+![seagull](images/seagull.png)
